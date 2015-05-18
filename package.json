@@ -1,0 +1,31 @@
+{
+  "name": "webdanfe",
+  "version": "1.0.0",
+  "description": "Gerador de DANFE em pdf utilizando o webservice do Webdanfe",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renatoargh/webdanfe.git"
+  },
+  "keywords": [
+    "danfe",
+    "pdf",
+    "webdanfe",
+    "nfe",
+    "nota",
+    "fiscal",
+    "eletronica"
+  ],
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatoargh/webdanfe/issues"
+  },
+  "homepage": "https://github.com/renatoargh/webdanfe",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
