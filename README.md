@@ -25,3 +25,4 @@ webdanfe.gerarDanfe(xml, function(err, pdf) {
 ### Projetos Relacionados
 - [ie](https://github.com/gammasoft/ie) Biblioteca de validação de inscrições estaduais em JavaScript (browser e node.js)
 - [brasil](https://github.com/gammasoft/brasil) Biblioteca de ferramentas utilitárias voltadas para programadores brasileiros
+- [danfe](https://github.com/brasil-js/danfe) Módulo node.js para gerar DANFEs em .pdf
